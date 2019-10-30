@@ -1,0 +1,29 @@
+# github.com/DataDog/datadog-go v3.2.0+incompatible
+github.com/DataDog/datadog-go/statsd
+# github.com/DataDog/opencensus-go-exporter-datadog v0.0.0-20190926132405-fe3fae706db1
+github.com/DataDog/opencensus-go-exporter-datadog
+# github.com/golang/groupcache v0.0.0-20190702054246-869f871628b6
+github.com/golang/groupcache/lru
+# github.com/philhofer/fwd v1.0.0
+github.com/philhofer/fwd
+# github.com/tinylib/msgp v1.1.0
+github.com/tinylib/msgp/msgp
+# go.opencensus.io v0.22.1
+go.opencensus.io
+go.opencensus.io/internal
+go.opencensus.io/internal/tagencoding
+go.opencensus.io/metric/metricdata
+go.opencensus.io/metric/metricproducer
+go.opencensus.io/plugin/ochttp
+go.opencensus.io/plugin/ochttp/propagation/b3
+go.opencensus.io/resource
+go.opencensus.io/stats
+go.opencensus.io/stats/internal
+go.opencensus.io/stats/view
+go.opencensus.io/tag
+go.opencensus.io/trace
+go.opencensus.io/trace/internal
+go.opencensus.io/trace/propagation
+go.opencensus.io/trace/tracestate
+# gopkg.in/DataDog/dd-trace-go.v1 v1.18.0
+gopkg.in/DataDog/dd-trace-go.v1/ddtrace/ext
